@@ -1,0 +1,9 @@
+{
+	"name": "customercopytable",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89fd8f62-0598-493f-86c1-ba48c58f898a",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}
