@@ -1,0 +1,9 @@
+{
+	"name": "qacopieddata",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74c3e8ca-a7ae-472e-9026-29c0572544cb",
+		"tenantId": "4b97d221-0c12-4dcb-ba80-c180379c7017"
+	}
+}
